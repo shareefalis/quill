@@ -5,7 +5,6 @@
 !.gitignore
 !.github
 
-/dist
 /node_modules
 /selenium
 /src
@@ -21,8 +20,8 @@ themes/*.js
 ui/*.js
 test/random.js
 
+e2e
 core.js
-quill.js
-/test-results/
+quill.js/test-results/
 /playwright-report/
 /playwright/.cache/
